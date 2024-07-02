@@ -2,6 +2,8 @@
 
 Welcome to **C-Advance**, a repository dedicated to exploring advanced concepts in C programming. This repository serves as a resource for learning and understanding various advanced topics in C, with practical examples and explanations.
 
+![image](https://github.com/JeninSutradhar/C-Advance/assets/111521642/31d0448f-d5ef-4271-a7a7-738ea6831314)
+
 
 ## Topics Covered
 
